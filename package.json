@@ -1,7 +1,7 @@
 {
-  "name": "mybank-api",
+  "name": "scheduling-api",
   "version": "1.0.0",
-  "description": "Api my bank",
+  "description": "Api my scheduling",
   "main": "index.js",
   "scripts": {
     "start": "nodemon start",
