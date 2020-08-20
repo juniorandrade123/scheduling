@@ -1,0 +1,21 @@
+{
+  "name": "mybank-api",
+  "version": "1.0.0",
+  "description": "Api my bank",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "0BSD",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "config": "^3.2.3",
+    "consign": "^0.1.6",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongodb": "^3.6.0",
+    "requests": "^0.3.0"
+  }
+}
