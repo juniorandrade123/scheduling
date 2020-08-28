@@ -1,0 +1,14 @@
+{
+  "User" : [ {
+    "id": 1,
+    "email" : "junior.andrade@triasoftware.com.br",
+    "password" : "Tria123"
+  } ],
+  "salas": [
+    {
+      "id": 1,
+      "nome" : "Sala 01",
+      "status" : "Ativo"
+    }
+  ]
+}
